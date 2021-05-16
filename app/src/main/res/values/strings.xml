@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MathMadGame</string>
+    <string name="defaultText"></string>
+    <string name="score">0</string>
+    <string name="start">Start</string>
+    <string name="title">2048</string>
+    <string name="lose_game">You lost the Game</string>
+    <string name="won_game">You won the Game</string>
+</resources>

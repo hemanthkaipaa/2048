@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#ffebee</color>
+    <color name="purple_500">#ffebee</color>
+    <color name="purple_700">#ffebee</color>
+    <color name="teal_200">#ffebee</color>
+    <color name="teal_700">#ffebee</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="default_tile_color">#ffebee</color>
+    <color name="default_board_color">#D7CCC8</color>
+    <color name="default_tile_text_color">#FFFFFF</color>
+    <color name="score_color">#616161</color>
+    <color name="color_2">#F48FB1</color>
+    <color name="color_4">#B388FF</color>
+    <color name="color_8">#80CBC4</color>
+    <color name="color_16">#FF8A65</color>
+    <color name="color_32">#F57C00</color>
+    <color name="color_64">#1565C0</color>
+    <color name="color_128">#FBC02D</color>
+    <color name="color_256">#FBC02D</color>
+    <color name="color_512">#FBC02D</color>
+    <color name="color_1024">#5D4037</color>
+    <color name="color_2048">#DD2C00</color>
+    <color name="button_color">#90CAF9</color>
+</resources>
